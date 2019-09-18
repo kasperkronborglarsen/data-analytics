@@ -10,7 +10,7 @@ import csv as csv
 import matplotlib.pyplot as plt
 import pandas as pd
 
-readdata = csv.reader(open("C:/Users/Kasper/Desktop/datasets/boston/Boston.csv"))
+readdata = csv.reader(open("C:/Users/Kasper/Desktop/datasets/Boston.csv"))
 
 data=[]
 
